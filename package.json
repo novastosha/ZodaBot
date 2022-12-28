@@ -1,0 +1,24 @@
+{
+  "name": "zoda-the-bot",
+  "version": "0.0.1-INDEV",
+  "description": "A discord bot made using discord.js that aims to give users the best experience in moderation, music, chatting, games and more, with no paywalls. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novastosha/ZodaBot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "javascript"
+  ],
+  "author": "novastosha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novastosha/ZodaBot/issues"
+  },
+  "homepage": "https://github.com/novastosha/ZodaBot#readme"
+}
